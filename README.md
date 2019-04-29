@@ -19,7 +19,7 @@ git clone https://github.com/nychi713/BackViz.git
 cd BackViz
 
 #Instal Backstop and Cucumber
-npm install --save-dev cucumber
+npm install --save-dev cucumber backstopjs
 
 #Get reference. From /node_modules/backstopjs/
 npm run reference
